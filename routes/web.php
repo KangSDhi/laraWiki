@@ -15,3 +15,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'MainController@index')->name('main');
 Route::get('/tentang', 'MainController@about')->name('tentang');
+Route::get('/login', 'AuthController@login')->name('login');
+Route::get('/register','AuthController@register')->name('register');
+Route::get('/dashboard', 'DashboardController@index')->name('dashboard');

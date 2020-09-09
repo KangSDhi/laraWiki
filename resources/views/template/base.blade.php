@@ -17,6 +17,12 @@
 			</li>
 		  </ul>
 		</div>
+        <div class="d-inline">
+            <div class="btn-group" role="group">
+                <a href="{{ route('login') }}" class="btn btn-primary">Masuk</a>
+                <a href="{{route('register')}}" class="btn btn-danger">Daftar</a>
+            </div>
+        </div>
 	  </nav>
 	@yield('content')
 
