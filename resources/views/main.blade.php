@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-9">
                 <div class="card-deck">
-                    <div class="shadow card mb-3" style="min-width: 240px; max-width: 360px" ;>
+                    <div class="shadow card mb-3" style="min-width: 360px; max-width: 360px" ;>
                         <div class="row no-gutters">
                             <div class="col-md-4">
                                 <img src="img/Katarina.jpg" class="card-img" alt="...">
@@ -24,7 +24,7 @@
                         </div>
                     </div>
 
-                    <div class="shadow card mb-3" style="min-width: 240px;max-width: 360px;" >
+                    <div class="shadow card mb-3" style="min-width: 360px;max-width: 360px;" >
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img src="img/Katarina.jpg" class="card-img" alt="...">
@@ -41,7 +41,7 @@
                     </div>
                 </div>
 
-                <div class="shadow card mb-3" style="min-width: 240px;max-width: 360px;">
+                <div class="shadow card mb-3" style="min-width: 360px;max-width: 360px;">
                 <div class="row no-gutters">
                     <div class="col-md-4">
                         <img src="img/Katarina.jpg" class="card-img" alt="...">
@@ -58,7 +58,7 @@
                 </div>
             </div>
 
-            <div class="shadow card mb-3" style="min-width: 240px;max-width: 360px;">
+            <div class="shadow card mb-3" style="min-width: 360px;max-width: 360px;">
             <div class="row no-gutters">
                 <div class="col-md-4">
                     <img src="img/Katarina.jpg" class="card-img" alt="...">
@@ -75,7 +75,7 @@
             </div>
         </div>
 
-        <div class="shadow card mb-3" style="min-width: 240px;max-width: 360px;">
+        <div class="shadow card mb-3" style="min-width: 360px;max-width: 360px;">
         <div class="row no-gutters">
             <div class="col-md-4">
                 <img src="img/Katarina.jpg" class="card-img" alt="...">
@@ -92,7 +92,7 @@
         </div>
     </div>
 
-    <div class="shadow card mb-3" style="min-width: 240px;max-width: 360px;">
+    <div class="shadow card mb-3" style="min-width: 360px;max-width: 360px;">
     <div class="row no-gutters">
         <div class="col-md-4">
             <img src="img/Katarina.jpg" class="card-img" alt="...">
